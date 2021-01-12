@@ -1,2 +1,4 @@
 # hello-world
-github hello world project
+hi humans! 
+
+I wrote this message to practice github!
